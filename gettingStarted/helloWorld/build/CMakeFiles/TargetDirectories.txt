@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/gettingStarted/helloWorld/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/helloWorld/build/CMakeFiles/helloWorld.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/helloWorld/build/CMakeFiles/edit_cache.dir
