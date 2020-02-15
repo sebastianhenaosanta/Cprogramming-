@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/activitiPrint.dir/activitiPrint.c.o  -o activitiPrint 
