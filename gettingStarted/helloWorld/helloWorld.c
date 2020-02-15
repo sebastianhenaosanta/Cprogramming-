@@ -1,9 +1,9 @@
-#include <stdio.h>
+#include <stdio.h> //header 
 
 
-int main(void){
+int main(void){ //main function
 
-	printf("Hello World\n");
-	return 0;
+	printf("Hello World\n"); //printing a chain of caracteres
+	return 0;//end up the function
 
 }
