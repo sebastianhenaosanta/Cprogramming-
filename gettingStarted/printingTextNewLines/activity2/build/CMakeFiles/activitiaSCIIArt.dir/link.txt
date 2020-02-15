@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/activitiaSCIIArt.dir/activitiaSCIIArt.c.o  -o activitiaSCIIArt 
