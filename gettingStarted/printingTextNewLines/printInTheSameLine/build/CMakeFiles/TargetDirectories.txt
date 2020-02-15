@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/gettingStarted/printingTextNewLines/printInTheSameLine/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/printingTextNewLines/printInTheSameLine/build/CMakeFiles/printTexSameline.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/printingTextNewLines/printInTheSameLine/build/CMakeFiles/edit_cache.dir

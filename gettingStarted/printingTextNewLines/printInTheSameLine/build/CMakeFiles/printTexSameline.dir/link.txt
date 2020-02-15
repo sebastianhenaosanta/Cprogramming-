@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/printTexSameline.dir/printTexSameline.c.o  -o printTexSameline 
