@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/printWithFooLoop.dir/printWithFooLoop.c.o  -o printWithFooLoop 
