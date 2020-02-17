@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/gettingStarted/printingTextNewLines/activity5/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/printingTextNewLines/activity5/build/CMakeFiles/actiPrintBlockForLoop.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/printingTextNewLines/activity5/build/CMakeFiles/edit_cache.dir
