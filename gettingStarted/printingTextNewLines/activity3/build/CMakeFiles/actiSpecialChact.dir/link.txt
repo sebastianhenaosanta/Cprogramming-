@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/actiSpecialChact.dir/actiSpecialChact.c.o  -o actiSpecialChact 
