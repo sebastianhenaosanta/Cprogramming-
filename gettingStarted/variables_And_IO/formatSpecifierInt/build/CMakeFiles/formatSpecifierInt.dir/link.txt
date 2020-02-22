@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/formatSpecifierInt.dir/formatSpecifierInt.c.o  -o formatSpecifierInt 

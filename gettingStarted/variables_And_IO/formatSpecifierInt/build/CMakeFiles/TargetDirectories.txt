@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/gettingStarted/variables_And_IO/formatSpecifierInt/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/variables_And_IO/formatSpecifierInt/build/CMakeFiles/formatSpecifierInt.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/variables_And_IO/formatSpecifierInt/build/CMakeFiles/edit_cache.dir
