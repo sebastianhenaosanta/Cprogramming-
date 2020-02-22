@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/gettingStarted/variables_And_IO/scanfLoop/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/variables_And_IO/scanfLoop/build/CMakeFiles/scanfLoop.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/variables_And_IO/scanfLoop/build/CMakeFiles/edit_cache.dir
