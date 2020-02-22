@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/gettingStarted/variables_And_IO/intArithmeticOp/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/variables_And_IO/intArithmeticOp/build/CMakeFiles/intArithmeticOp.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/variables_And_IO/intArithmeticOp/build/CMakeFiles/edit_cache.dir
