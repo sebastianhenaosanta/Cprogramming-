@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/activitySimpleArith.dir/activitySimpleArith.c.o  -o activitySimpleArith 
