@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/variblesAndLoops.dir/variblesAndLoops.c.o  -o variblesAndLoops 
