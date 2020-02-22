@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/structCProgram.dir/structCProgram.c.o  -o structCProgram 

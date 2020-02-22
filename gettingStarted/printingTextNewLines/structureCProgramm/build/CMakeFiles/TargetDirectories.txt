@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/gettingStarted/structureCProgramm/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/structureCProgramm/build/CMakeFiles/structCProgram.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/structureCProgramm/build/CMakeFiles/edit_cache.dir
