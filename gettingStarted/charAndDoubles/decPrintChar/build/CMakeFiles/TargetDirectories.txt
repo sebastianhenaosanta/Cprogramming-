@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/gettingStarted/charAndDoubles/decPrintChar/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/charAndDoubles/decPrintChar/build/CMakeFiles/decPrintChar.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/charAndDoubles/decPrintChar/build/CMakeFiles/edit_cache.dir
