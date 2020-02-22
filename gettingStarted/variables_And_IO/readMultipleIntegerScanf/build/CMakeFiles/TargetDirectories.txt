@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/gettingStarted/variables_And_IO/readMultipleIntegerScanf/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/variables_And_IO/readMultipleIntegerScanf/build/CMakeFiles/readMultipleIntegerScanf.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/variables_And_IO/readMultipleIntegerScanf/build/CMakeFiles/edit_cache.dir
