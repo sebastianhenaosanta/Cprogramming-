@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/gettingStarted/variables_And_IO/activity2/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/variables_And_IO/activity2/build/CMakeFiles/activityX8MultiTable.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/variables_And_IO/activity2/build/CMakeFiles/edit_cache.dir
