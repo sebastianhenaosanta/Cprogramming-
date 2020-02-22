@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/gettingStarted/printingTextNewLines/nicePattern/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/printingTextNewLines/nicePattern/build/CMakeFiles/nicePattern.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/printingTextNewLines/nicePattern/build/CMakeFiles/edit_cache.dir
