@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/readingDecimalnumber.dir/readingDecimalnumber.c.o  -o readingDecimalnumber 
