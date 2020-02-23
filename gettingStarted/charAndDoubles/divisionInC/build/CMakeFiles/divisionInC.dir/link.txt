@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/divisionInC.dir/divisionInC.c.o  -o divisionInC 
