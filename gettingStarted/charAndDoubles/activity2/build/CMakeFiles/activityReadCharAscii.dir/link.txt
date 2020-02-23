@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/activityReadCharAscii.dir/activityReadCharAscii.c.o  -o activityReadCharAscii 
