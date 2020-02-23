@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/activityReadDecimal.dir/activityReadDecimal.c.o  -o activityReadDecimal 
