@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.10.2)
 
 # set the project name
-project(divisionInC)
+project(int2double)
 
 # add the executable
-add_executable(divisionInC divisionInC.c)
+add_executable(int2double int2double.c)

@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/gettingStarted/charAndDoubles/int2double/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/charAndDoubles/int2double/build/CMakeFiles/int2double.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/charAndDoubles/int2double/build/CMakeFiles/edit_cache.dir
