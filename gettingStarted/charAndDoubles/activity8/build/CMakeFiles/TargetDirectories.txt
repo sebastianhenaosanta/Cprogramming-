@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/gettingStarted/charAndDoubles/activity8/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/charAndDoubles/activity8/build/CMakeFiles/activity8Doub2Int.dir
+/home/sebastian/Documents/Cprogramming-/gettingStarted/charAndDoubles/activity8/build/CMakeFiles/edit_cache.dir
