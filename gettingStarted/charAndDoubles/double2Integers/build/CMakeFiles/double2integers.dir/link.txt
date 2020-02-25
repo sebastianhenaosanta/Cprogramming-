@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/double2integers.dir/double2integers.c.o  -o double2integers 
