@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/activity7Average.dir/activity7Average.c.o  -o activity7Average 
