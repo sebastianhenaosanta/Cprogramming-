@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/languageFoundation/logicCoditions/activity2/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/languageFoundation/logicCoditions/activity2/build/CMakeFiles/activityHotelCost.dir
+/home/sebastian/Documents/Cprogramming-/languageFoundation/logicCoditions/activity2/build/CMakeFiles/edit_cache.dir

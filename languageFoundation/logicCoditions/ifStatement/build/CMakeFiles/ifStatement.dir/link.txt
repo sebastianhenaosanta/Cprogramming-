@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/ifStatement.dir/ifStatement.c.o  -o ifStatement 

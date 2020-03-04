@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/activityCar.dir/activityCar.c.o  -o activityCar 

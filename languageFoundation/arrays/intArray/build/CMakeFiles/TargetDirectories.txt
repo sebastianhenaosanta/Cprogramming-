@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/languageFoundation/arrays/intArray/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/languageFoundation/arrays/intArray/build/CMakeFiles/intArray.dir
+/home/sebastian/Documents/Cprogramming-/languageFoundation/arrays/intArray/build/CMakeFiles/edit_cache.dir

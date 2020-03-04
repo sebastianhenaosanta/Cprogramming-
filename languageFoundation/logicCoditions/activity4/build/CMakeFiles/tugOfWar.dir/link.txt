@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/tugOfWar.dir/tugOfWar.c.o  -o tugOfWar 

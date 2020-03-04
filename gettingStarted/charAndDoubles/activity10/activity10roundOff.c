@@ -7,7 +7,6 @@ Your program should first read a decimal number representing the amount of cemen
 
 Input:
 295.8
-
 Output:
 135
 */

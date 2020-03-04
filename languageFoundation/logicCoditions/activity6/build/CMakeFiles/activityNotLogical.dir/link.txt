@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/activityNotLogical.dir/activityNotLogical.c.o  -o activityNotLogical 

@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/activityStoreRecipe.dir/activityStoreRecipe.c.o  -o activityStoreRecipe 

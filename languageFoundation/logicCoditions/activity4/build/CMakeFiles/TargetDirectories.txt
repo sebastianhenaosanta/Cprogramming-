@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/languageFoundation/logicCoditions/activity4/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/languageFoundation/logicCoditions/activity4/build/CMakeFiles/tugOfWar.dir
+/home/sebastian/Documents/Cprogramming-/languageFoundation/logicCoditions/activity4/build/CMakeFiles/edit_cache.dir
