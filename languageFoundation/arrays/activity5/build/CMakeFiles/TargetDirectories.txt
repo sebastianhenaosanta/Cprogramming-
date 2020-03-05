@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/languageFoundation/arrays/activity5/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/languageFoundation/arrays/activity5/build/CMakeFiles/nestedLoops.dir
+/home/sebastian/Documents/Cprogramming-/languageFoundation/arrays/activity5/build/CMakeFiles/edit_cache.dir
