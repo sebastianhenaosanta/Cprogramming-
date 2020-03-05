@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/printStrings.dir/printStrings.c.o  -o printStrings 

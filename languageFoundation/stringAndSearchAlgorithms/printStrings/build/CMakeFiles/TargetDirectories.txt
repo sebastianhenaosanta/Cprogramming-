@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/languageFoundation/stringAndSearchAlgorithms/printStrings/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/languageFoundation/stringAndSearchAlgorithms/printStrings/build/CMakeFiles/printStrings.dir
+/home/sebastian/Documents/Cprogramming-/languageFoundation/stringAndSearchAlgorithms/printStrings/build/CMakeFiles/edit_cache.dir
