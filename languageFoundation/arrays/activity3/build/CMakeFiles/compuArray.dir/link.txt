@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/compuArray.dir/compuArray.c.o  -o compuArray 

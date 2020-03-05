@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/languageFoundation/arrays/activity3/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/languageFoundation/arrays/activity3/build/CMakeFiles/compuArray.dir
+/home/sebastian/Documents/Cprogramming-/languageFoundation/arrays/activity3/build/CMakeFiles/edit_cache.dir
