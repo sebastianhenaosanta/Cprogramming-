@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/languageFoundation/arrays/activity7/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/languageFoundation/arrays/activity7/build/CMakeFiles/epidemicControl.dir
+/home/sebastian/Documents/Cprogramming-/languageFoundation/arrays/activity7/build/CMakeFiles/edit_cache.dir

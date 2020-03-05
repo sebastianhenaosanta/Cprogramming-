@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/epidemicControl.dir/epidemicControl.c.o  -o epidemicControl 
