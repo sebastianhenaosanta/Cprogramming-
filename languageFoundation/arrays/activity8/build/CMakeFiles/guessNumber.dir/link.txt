@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/guessNumber.dir/guessNumber.c.o  -o guessNumber 
