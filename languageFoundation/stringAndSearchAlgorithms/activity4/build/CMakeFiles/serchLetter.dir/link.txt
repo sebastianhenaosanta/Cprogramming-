@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/serchLetter.dir/serchLetter.c.o  -o serchLetter 

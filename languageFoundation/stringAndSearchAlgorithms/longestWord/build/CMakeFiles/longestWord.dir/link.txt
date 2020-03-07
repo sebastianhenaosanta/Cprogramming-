@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/longestWord.dir/longestWord.c.o  -o longestWord 

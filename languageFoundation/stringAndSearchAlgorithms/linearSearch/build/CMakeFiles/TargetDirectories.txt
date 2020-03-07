@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/languageFoundation/stringAndSearchAlgorithms/linearSearch/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/languageFoundation/stringAndSearchAlgorithms/linearSearch/build/CMakeFiles/linearSearch.dir
+/home/sebastian/Documents/Cprogramming-/languageFoundation/stringAndSearchAlgorithms/linearSearch/build/CMakeFiles/edit_cache.dir

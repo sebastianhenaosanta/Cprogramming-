@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/lengthString.dir/lengthString.c.o  -o lengthString 

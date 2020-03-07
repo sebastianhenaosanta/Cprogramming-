@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/swapName.dir/swapName.c.o  -o swapName 
