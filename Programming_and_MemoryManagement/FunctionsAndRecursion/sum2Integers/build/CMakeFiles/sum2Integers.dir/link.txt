@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/sum2Integers.dir/sum2Integers.c.o  -o sum2Integers 
