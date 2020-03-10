@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/prototypeFunct.dir/prototypeFunct.c.o  -o prototypeFunct 
