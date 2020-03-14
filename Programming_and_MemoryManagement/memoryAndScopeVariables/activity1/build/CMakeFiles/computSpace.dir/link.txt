@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/computSpace.dir/computSpace.c.o  -o computSpace 

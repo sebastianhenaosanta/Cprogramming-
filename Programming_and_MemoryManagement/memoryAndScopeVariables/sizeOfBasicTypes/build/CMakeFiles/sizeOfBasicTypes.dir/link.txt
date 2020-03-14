@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/sizeOfBasicTypes.dir/sizeOfBasicTypes.c.o  -o sizeOfBasicTypes 

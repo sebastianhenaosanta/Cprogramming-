@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/Programming_and_MemoryManagement/FunctionsAndRecursion/recursion1/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/Programming_and_MemoryManagement/FunctionsAndRecursion/recursion1/build/CMakeFiles/factorial.dir
+/home/sebastian/Documents/Cprogramming-/Programming_and_MemoryManagement/FunctionsAndRecursion/recursion1/build/CMakeFiles/edit_cache.dir

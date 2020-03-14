@@ -1,3 +1,0 @@
-/home/sebastian/Documents/Cprogramming-/Programming_and_MemoryManagement/FunctionsAndRecursion/sum2Integers/build/CMakeFiles/rebuild_cache.dir
-/home/sebastian/Documents/Cprogramming-/Programming_and_MemoryManagement/FunctionsAndRecursion/sum2Integers/build/CMakeFiles/sum2Integers.dir
-/home/sebastian/Documents/Cprogramming-/Programming_and_MemoryManagement/FunctionsAndRecursion/sum2Integers/build/CMakeFiles/edit_cache.dir
