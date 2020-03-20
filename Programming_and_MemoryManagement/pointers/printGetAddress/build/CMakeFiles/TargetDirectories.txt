@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/Programming_and_MemoryManagement/pointers/printGetAddress/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/Programming_and_MemoryManagement/pointers/printGetAddress/build/CMakeFiles/printGetAddress.dir
+/home/sebastian/Documents/Cprogramming-/Programming_and_MemoryManagement/pointers/printGetAddress/build/CMakeFiles/edit_cache.dir

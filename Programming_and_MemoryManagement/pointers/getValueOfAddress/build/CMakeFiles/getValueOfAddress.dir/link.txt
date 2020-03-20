@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/getValueOfAddress.dir/getValueOfAddress.c.o  -o getValueOfAddress 
