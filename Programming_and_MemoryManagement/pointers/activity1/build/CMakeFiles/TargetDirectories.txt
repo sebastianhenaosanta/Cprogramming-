@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/Programming_and_MemoryManagement/pointers/activity1/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/Programming_and_MemoryManagement/pointers/activity1/build/CMakeFiles/elixirPointers.dir
+/home/sebastian/Documents/Cprogramming-/Programming_and_MemoryManagement/pointers/activity1/build/CMakeFiles/edit_cache.dir

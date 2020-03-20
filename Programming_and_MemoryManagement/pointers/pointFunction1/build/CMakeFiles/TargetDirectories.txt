@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/Programming_and_MemoryManagement/pointers/pointFunction1/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/Programming_and_MemoryManagement/pointers/pointFunction1/build/CMakeFiles/swapTwoIntegers.dir
+/home/sebastian/Documents/Cprogramming-/Programming_and_MemoryManagement/pointers/pointFunction1/build/CMakeFiles/edit_cache.dir

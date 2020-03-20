@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/elixirPointers.dir/elixirPointers.c.o  -o elixirPointers 

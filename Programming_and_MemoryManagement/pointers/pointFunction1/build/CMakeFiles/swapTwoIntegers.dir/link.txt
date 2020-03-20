@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/swapTwoIntegers.dir/swapTwoIntegers.c.o  -o swapTwoIntegers 
