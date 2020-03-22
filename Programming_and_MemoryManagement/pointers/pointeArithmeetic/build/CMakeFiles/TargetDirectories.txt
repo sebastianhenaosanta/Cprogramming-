@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/Programming_and_MemoryManagement/pointers/pointeArithmeetic/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/Programming_and_MemoryManagement/pointers/pointeArithmeetic/build/CMakeFiles/pointArith.dir
+/home/sebastian/Documents/Cprogramming-/Programming_and_MemoryManagement/pointers/pointeArithmeetic/build/CMakeFiles/edit_cache.dir

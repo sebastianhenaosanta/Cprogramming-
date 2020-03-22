@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/elixir2.dir/elixir2.c.o  -o elixir2 

@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/pointArith.dir/pointArith.c.o  -o pointArith 
