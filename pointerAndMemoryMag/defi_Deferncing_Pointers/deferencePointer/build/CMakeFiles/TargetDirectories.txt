@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/pointerAndMemoryMag/defi_Deferncing_Pointers/deferencePointer/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/pointerAndMemoryMag/defi_Deferncing_Pointers/deferencePointer/build/CMakeFiles/deferencePointer.dir
+/home/sebastian/Documents/Cprogramming-/pointerAndMemoryMag/defi_Deferncing_Pointers/deferencePointer/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/pointFunct1.dir/pointFunct1.c.o  -o pointFunct1 
