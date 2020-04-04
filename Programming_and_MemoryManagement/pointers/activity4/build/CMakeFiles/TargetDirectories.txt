@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/Programming_and_MemoryManagement/pointers/activity4/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/Programming_and_MemoryManagement/pointers/activity4/build/CMakeFiles/reverse.dir
+/home/sebastian/Documents/Cprogramming-/Programming_and_MemoryManagement/pointers/activity4/build/CMakeFiles/edit_cache.dir

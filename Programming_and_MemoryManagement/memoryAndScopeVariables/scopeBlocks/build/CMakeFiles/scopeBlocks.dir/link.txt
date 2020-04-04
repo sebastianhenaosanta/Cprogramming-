@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/scopeBlocks.dir/scopeBlocks.c.o  -o scopeBlocks 
