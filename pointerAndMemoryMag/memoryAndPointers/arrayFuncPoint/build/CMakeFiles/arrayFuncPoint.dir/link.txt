@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/arrayFuncPoint.dir/arrayFuncPoint.c.o  -o arrayFuncPoint 
