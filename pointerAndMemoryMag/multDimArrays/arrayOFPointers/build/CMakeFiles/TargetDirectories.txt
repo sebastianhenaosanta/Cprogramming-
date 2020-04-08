@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/pointerAndMemoryMag/multDimArrays/arrayOFPointers/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/pointerAndMemoryMag/multDimArrays/arrayOFPointers/build/CMakeFiles/arrayOFPointers.dir
+/home/sebastian/Documents/Cprogramming-/pointerAndMemoryMag/multDimArrays/arrayOFPointers/build/CMakeFiles/edit_cache.dir

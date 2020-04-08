@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/arrayOFPointers.dir/arrayOFPointers.c.o  -o arrayOFPointers 
