@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/intmatrix.dir/intmatrix.c.o  -o intmatrix 

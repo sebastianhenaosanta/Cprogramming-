@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/alloMemoHeap.dir/alloMemoHeap.c.o  -o alloMemoHeap 

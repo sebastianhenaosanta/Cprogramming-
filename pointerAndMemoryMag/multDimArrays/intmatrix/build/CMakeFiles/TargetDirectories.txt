@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/pointerAndMemoryMag/multDimArrays/intmatrix/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/pointerAndMemoryMag/multDimArrays/intmatrix/build/CMakeFiles/intmatrix.dir
+/home/sebastian/Documents/Cprogramming-/pointerAndMemoryMag/multDimArrays/intmatrix/build/CMakeFiles/edit_cache.dir

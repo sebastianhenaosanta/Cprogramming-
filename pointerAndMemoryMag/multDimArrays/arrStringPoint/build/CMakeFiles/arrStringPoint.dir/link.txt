@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/arrStringPoint.dir/arrStringPoint.c.o  -o arrStringPoint 

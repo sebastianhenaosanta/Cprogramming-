@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/multiArrString.dir/multiArrString.c.o  -o multiArrString 

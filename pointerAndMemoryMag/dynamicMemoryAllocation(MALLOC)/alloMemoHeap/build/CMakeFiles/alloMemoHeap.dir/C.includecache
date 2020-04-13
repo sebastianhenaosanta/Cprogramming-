@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sebastian/Documents/Cprogramming-/pointerAndMemoryMag/dynamicMemoryAllocation(MALLOC)/alloMemoHeap/alloMemoHeap.c
+stdio.h
+-
+stdlib.h
+-
+
