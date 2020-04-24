@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/alloArray.dir/alloArray.c.o  -o alloArray 

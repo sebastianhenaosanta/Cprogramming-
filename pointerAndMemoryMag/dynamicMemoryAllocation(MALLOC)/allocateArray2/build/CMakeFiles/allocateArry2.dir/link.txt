@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/allocateArry2.dir/allocateArry2.c.o  -o allocateArry2 
