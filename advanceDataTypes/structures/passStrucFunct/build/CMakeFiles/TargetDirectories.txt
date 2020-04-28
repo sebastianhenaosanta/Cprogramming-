@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/advanceDataTypes/structures/passStrucFunct/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/advanceDataTypes/structures/passStrucFunct/build/CMakeFiles/passStrucFunct.dir
+/home/sebastian/Documents/Cprogramming-/advanceDataTypes/structures/passStrucFunct/build/CMakeFiles/edit_cache.dir

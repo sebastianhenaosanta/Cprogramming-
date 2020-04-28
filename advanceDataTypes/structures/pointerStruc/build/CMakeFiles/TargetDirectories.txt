@@ -1,0 +1,3 @@
+/home/sebastian/Documents/Cprogramming-/advanceDataTypes/structures/pointerStruc/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/Cprogramming-/advanceDataTypes/structures/pointerStruc/build/CMakeFiles/pointerStruc.dir
+/home/sebastian/Documents/Cprogramming-/advanceDataTypes/structures/pointerStruc/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/defineAStructure.dir/defineAStructure.c.o  -o defineAStructure 
